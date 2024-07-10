@@ -1,6 +1,6 @@
 # LinkedIn-Fake-Accounts-Detection
 # References:
-    I have used the linedin dataset taken from the following:
+## have used the linedin dataset taken from the following:
       @inproceedings{ayoobi2023looming,
       title={The Looming Threat of Fake and LLM-generated LinkedIn Profiles: Challenges and Opportunities for Detection and Prevention},
       author={Ayoobi, Navid and Shahriar, Sadat and Mukherjee, Arjun},
