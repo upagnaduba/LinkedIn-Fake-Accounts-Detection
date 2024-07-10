@@ -9,7 +9,7 @@ Clean and preprocess LinkedIn profile data.
 Extract relevant features such as profile completeness, activity metrics, and text analytics.
 ## Model Training: 
 Train machine learning models to classify profiles as legitimate or fake.
-##Evaluation: 
+## Evaluation: 
 Evaluate model performance using metrics like accuracy, precision, recall, and F1-score.
 # Acknowledgments
 ## Data set provided by:
